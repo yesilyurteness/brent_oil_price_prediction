@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
+shap
+scipy
+PyWavelets
+openpyxl
